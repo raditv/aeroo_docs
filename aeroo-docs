@@ -52,7 +52,7 @@ conf = '''
 [start]
 interface = localhost
 port = 8989
-oo-server = localhost
+oo-server = 192.168.2.3
 oo-port = 8100
 spool-directory = /tmp/aeroo-docs
 spool-expire = 1800
